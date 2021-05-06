@@ -1,7 +1,7 @@
 # Bouncing-balls-game
 A game that lets user control randomly generated objects within a limit
 
-This program gives users a lot of options, the user chooses the limits for the balls' sizes, velocities, and chooses their number, then runs the game. When the game is running, they can stack the balls, pause or quit. And I used JavaSwing to implement my first GUI
+This program gives users a lot of options, the user chooses the limits for the balls' sizes, velocities, and chooses their number, then runs the game. When the game is running, they can stack the balls, pause or quit. And I used JavaSwing to implement my first GUI.
 
 In this picture, the user chose to trace 2 balls' trajectories
 
